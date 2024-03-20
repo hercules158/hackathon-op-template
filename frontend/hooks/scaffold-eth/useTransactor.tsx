@@ -133,6 +133,7 @@ export const useTransactor = (_signer?: Signer): TTransactionFunc => {
           }
         }
       }
+      
       console.error("⚡️ ~ file: useTransactor.ts ~ error", error);
     }
 
