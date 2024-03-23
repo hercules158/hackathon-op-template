@@ -1,8 +1,1 @@
-# Fullstack Web3 Template
-
-
-## Como instalar
-
-- **Docker**
-- **Node**
-- **Python**
+# Peço desculpas mas não consegui fazer o projeto, estou com dengue :'(.
